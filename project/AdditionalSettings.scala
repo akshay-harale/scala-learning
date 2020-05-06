@@ -4,7 +4,7 @@ import Keys._
 object AdditionalSettings {
 
   // Change 'loadInitialCmds' to true when requested in exercise instructions
-  val loadInitialCmds = false
+  val loadInitialCmds = true
 
   val initialCmdsConsole: Seq[Def.Setting[String]] =
     if (loadInitialCmds) {
