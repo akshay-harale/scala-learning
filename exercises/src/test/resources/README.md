@@ -1,6 +1,6 @@
-tests
+use-try
 
-# Exercise 12 > Group Exercise: Tests
+# Exercise 24 > Use Try
 
 In the course video recordings, the instructor uses a `man e` command in the sbt interactive session to display exercise instructions. 
 
